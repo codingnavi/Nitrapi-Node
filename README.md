@@ -1,5 +1,5 @@
 # nitrapi [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> NodeJs based SDK for the Nitrapi
+> Node.js based SDK for the Nitrapi
 
 ## Installation
 
