@@ -1,0 +1,45 @@
+{
+  "name": "nitrapi",
+  "version": "0.1.1",
+  "description": "Node.js based SDK for the Nitrapi",
+  "homepage": "https://github.com/codingnavi/Nitrapi-Node",
+  "author": {
+    "name": "CodingNavi",
+    "email": "codingnavi@gmail.com",
+    "url": "https://codingnavi.github.io"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-xo-space": "^0.15.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-mocha": "^3.0.1",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  },
+  "repository": "codingnavi/Nitrapi-Node",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT"
+}
