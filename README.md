@@ -36,7 +36,7 @@ MIT © [CodingNavi](https://codingnavi.github.io)
 
 [npm-image]: https://badge.fury.io/js/nitrapi.svg
 [npm-url]: https://npmjs.org/package/nitrapi
-[travis-image]: https://travis-ci.org/codingnavi/nitrapi-node.svg?branch=master
-[travis-url]: https://travis-ci.org/codingnavi/nitrapi-node
-[daviddm-image]: https://david-dm.org/codingnavi/nitrapi-node.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/codingnavi/nitrapi-node
+[travis-image]: https://travis-ci.org/codingnavi/Nitrapi-Node.svg?branch=master
+[travis-url]: https://travis-ci.org/codingnavi/Nitrapi-Node
+[daviddm-image]: https://david-dm.org/codingnavi/Nitrapi-Node.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/codingnavi/Nitrapi-Node
